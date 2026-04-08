@@ -19,4 +19,4 @@ Custom layout for my `Keyboardio Atreus`.
   - [QMK layouts](https://github.com/evantravers/qmk_userspace)
   - [ZMK layouts](https://github.com/evantravers/zmk-config)
   - [ThePrimeagen keyboard](https://github.com/ThePrimeagen/keyboards)
-- [Sunaku](https://sunaku.github.io/moergo-glove80-keyboard.html#gaming-layer)'s layout for `Glove80` but adapted to `Atreus` 
+- [Sunaku](https://sunaku.github.io/moergo-glove80-keyboard.html)'s layout for `Glove80` but adapted to `Atreus`
