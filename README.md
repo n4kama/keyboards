@@ -1,6 +1,9 @@
-# QMK Userspace
+# Keyboards
 
-Custom layout for my `Keyboardio Atreus`.
+Keymaps for my keyboards, kept cross-compatible:
+
+- `qmk/`: `Keyboardio Atreus` (QMK), `main.json` exported from [config.qmk.fm](https://config.qmk.fm/)
+- `zmk/`: `Glove80` (ZMK), `main.keymap` exported from the [Glove80 Layout Editor](https://my.glove80.com/)
 
 ## Roadmap
 
